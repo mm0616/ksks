@@ -4,7 +4,10 @@
    :caption: Contents:
 
 
-   docs/3. Arduino/a
+   docs/1.Introduction/a
+   docs/2.Assemble/a
+   docs/3.Makecode/a
+   docs/4.Python/a
 
 
 
