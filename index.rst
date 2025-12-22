@@ -4,8 +4,10 @@
    :caption: Contents:
 
 
+   docs/1. Product introduction/a
    docs/2. Product installation/a
    docs/3. Arduino/3.rst
+   docs/4. Driver installation/a
 
 
 
