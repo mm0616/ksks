@@ -5,7 +5,7 @@
 
 
    docs/2. Product installation/a
-   docs/2. Product installation/3.rst
+   docs/3. Arduino/3.rst
 
 
 
