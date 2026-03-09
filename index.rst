@@ -1,22 +1,10 @@
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 3
+   :caption: 产品编码 文档的项目名称
 
-
-   docs/1. Product introduction/a
-   docs/2. Product installation/a
-   docs/3. Arduino/3.rst
-   docs/4. Driver installation/a
-
-
-
-
-
-
-
-
-
+   README.md
+   docs/MakeCode Tutorial/3.MakeCode Tutorial.rst
 
 
 

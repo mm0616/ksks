@@ -17,9 +17,10 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Mini Tank Robot V2'
-copyright = 'keyestudio wiki'
-author = 'keyestudio'
+project = 'keyestudio WiKi'
+copyright = 'keyestudio , WiKi'
+author = 'keyestudio WiKi'
+copyright = 'Shenzhen keyestudio Technology Co., Ltd'
 
 # -- General configuration ---------------------------------------------------
 
